@@ -24,3 +24,10 @@ let selectedName = [
 
 console.log(selectedName[1]);
 
+
+//array length
+const numbers = [2, 4, 5, 6];
+
+console.log(numbers.length);
+
+
