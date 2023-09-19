@@ -75,7 +75,43 @@ let person = {
   updateAge: function () {
     return ++person.age;
   }
+
+
+  //function declaration
+  //A function is a set of code used to execute a given task.....  
+  function greet(){
+    console.log('Hello world');
+}
+
+greet();
+
+
+//function inputs
+function greet(name){
+    console.log('Hello ' + name);
+}
+
+greet('Makiika');
 }
 
 console.log(person.age);
+
+
+//adding function 
+function adder (num1,num2){
+    console.log(num1+num2);
+}
+
+adder(5,10);
+
+
+
+//function upper casing 
+const name ='makiika';
+function toUpper(text){
+    const upperCased =text.toUpperCase();
+    console.log(upperCased);
+}
+
+toUpper(name);
 
