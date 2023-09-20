@@ -124,6 +124,12 @@ toUpper(name);
 
 let sum2 = (a,b) => a+b
 
+//addition 
+const addNumbers = (num1, num2) => num1 + num2;
+
+const result = addNumbers(5, 7);
+console.log(result);
+
 
 // function isPositive(number){
 //   return number >= 0
