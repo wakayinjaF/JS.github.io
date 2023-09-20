@@ -25,6 +25,10 @@ let selectedName = [
 console.log(selectedName[1]);
 
 
+//array methods 
+
+
+
 //array length
 const numbers = [2, 4, 5, 6];
 
