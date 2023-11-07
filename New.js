@@ -121,10 +121,10 @@ toUpper(name);
 
 
 
-//arrow function 
-// function sum(a,b){
-//   return a + b
-// }
+arrow function 
+function sum(a,b){
+  return a + b
+}
 
 let sum2 = (a,b) => a+b
 
