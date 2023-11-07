@@ -142,9 +142,9 @@ console.log(result);
 let isPositive2 = (number) => number >= 0
 
 
-function randomNumber() {
-  return math.random
-}
+// function randomNumber() {
+//   return math.random
+// }
 
 let randomNumber2= () => math.random
 
